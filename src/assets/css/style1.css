@@ -1,0 +1,9 @@
+#mainNav .navbar-nav .nav-item .nav-link {
+    color: black;
+
+}
+
+.backmenu {
+  background-color: rgba(92, 77, 66, 0.8) ;
+  margin-top: 1.55em;
+}

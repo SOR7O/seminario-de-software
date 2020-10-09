@@ -1,0 +1,11 @@
+.mt-9{
+    margin-top: 5em;
+}
+.scroll {
+    max-height: 25rem;
+    overflow-y: auto;
+}
+.sizeimage{
+    width: 100%;
+    height: 15rem;
+}
